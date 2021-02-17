@@ -1,0 +1,14 @@
+Name of QuantLet : 'SVCJrw_Indices_SharpeR'
+
+
+
+Published in : 'SVCJrw' 
+
+
+Description : 'This Quantlet computes the moments and the Sharpe Ratio for several cryptocurrency indices. Additionally the Probabilistic Sharpe Ratio (Bailey and Lopez de Prado 2012) are computed.'
+
+
+Keywords : 'CC Indices, CRIX, Moments, Sharpe Ratio, Probabilistic Sharpe Ratio'
+
+
+Author : 'Konstantin Häusler'

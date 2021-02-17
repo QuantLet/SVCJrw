@@ -1,0 +1,14 @@
+Name of QuantLet : 'SVCJrw_graph_parameters'
+
+
+
+Published in : 'SVCJrw'
+
+
+Description : 'This Quantlet takes SVCJ estimates of different rolling window sizes and visualizes them. Each line refers to time-series estimates of the respective parameter'
+
+
+Keywords : 'Cryptocurrencies, CRIX, SVCJ, rolling window'
+
+
+Author : 'Konstantin Häusler'

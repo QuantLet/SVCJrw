@@ -1,0 +1,15 @@
+
+Name of QuantLet : 'SVCJrw_clustered_parameters'
+
+
+
+Published in : 'SVCJrw'
+
+
+Description : 'his Quantlet uses SVCJ estimates of the Quanltet SVCJrw_graph_parameters and clusters several pairs of them by k-means. Thereby some patterns of the dynamics of cryptocurrencies are observable, and those are visualized with the CRIX.'
+
+
+Keywords : 'Cryptocurrencies, CRIX, SVCJ, k-means'
+
+
+Author : 'Konstantin Häusler'
