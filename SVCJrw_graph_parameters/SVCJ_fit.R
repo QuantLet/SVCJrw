@@ -16,8 +16,8 @@ invisible(lapply(lib, function(x){
 source("svcj_model.R")
 
 #load CRIX data
-tmp <- read.csv("http://data.thecrix.de/data/new_crix.csv")
-#tmp <- read.csv("crix_price.csv")
+#tmp <- read.csv("http://data.thecrix.de/data/new_crix.csv")
+tmp <- read.csv("crix_price.csv")
 tmp$date <- as.Date(tmp$date)
 prices = list() #format it to a list to be in line with Perez'code
 prices[["crix"]] <- as.data.frame(tmp)
